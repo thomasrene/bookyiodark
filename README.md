@@ -1,4 +1,4 @@
-# bookyiodark
+# Booky.io Minimal Dark Theme
 Full dark &amp; minimal theme for Booky.io
 
 This is a free userstyle for bookmarking tool Booky.io
