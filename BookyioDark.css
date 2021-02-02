@@ -1,0 +1,279 @@
+@-moz-document domain("booky.io") {
+.modal__inner {
+    
+    background-color:#111111;
+    
+}
+.label{
+color:#fff;
+}
+
+
+.menu__item:hover {
+    color: #fff;
+}
+
+.menu__item:hover .icon {
+    color: #fff;
+}
+
+.icon--light:hover {
+    color: #fff;
+}
+
+.header {
+    border-bottom: 2px solid #32343c;
+}
+
+.header--color8 {
+    background-color: #111111 !important;
+}
+
+.header--color0 {
+    background-color: #111111 !important;
+}
+
+.header--color1 {
+    background-color: #111111 !important;
+}
+
+.header--color2 {
+    background-color: #111111 !important;
+}
+
+.header--color3 {
+    background-color: #111111 !important;
+}
+
+.header--color4 {
+    background-color: #111111 !important;
+}
+
+.header--color5 {
+    background-color: #111111 !important;
+}
+
+.header--color6 {
+    background-color: #111111 !important;
+}
+
+.header--color7 {
+    background-color: #111111 !important;
+}
+
+.header--color8 {
+    background-color: #111111 !important;
+}
+
+.page {
+    background-color: #111111 !important;
+  
+}
+
+.toolbar {
+ 
+  background-color: #111111 !important;
+  border-bottom: 2px solid #32343c;
+}
+.dashboards-sidebar {
+      background-color: #111111 !important;   
+}
+
+.bookmark__link {
+    color: #eaeaea;
+}
+
+.dashboards__item {
+    color: #eaeaea;
+}
+
+.dashboards__item {
+    padding: 10px 56px;
+}
+
+
+.dashboards__item:hover {
+   background-color: transparent!important;
+    color: #eee!important;
+}
+.dashboards__item:active,
+  .dashboards__item:focus {
+    background-color: transparent!important;
+    color: #eee!important;
+}
+
+dashboards__item:hover .dashboards__label {
+    color: #eee;
+}
+
+.dashboards__item.dashboards__item--active:before {
+    content: "→";
+   
+}
+
+
+
+.dashboards__item:active, .dashboards__item:focus {
+    background-color: #111111!important;
+    color: #eee;
+}
+
+dashboards__item--active:hover{
+    color:#eee;
+}
+
+.icon--medium {
+    color: #fff;
+}
+
+
+.icon--medium.icon--dark-mode:hover, .icon--medium:hover {
+    color:#eee;
+}
+.icon--medium.icon--dark-mode:focus, .icon--medium:focus {
+    color: #eee;
+}
+
+.dashboards__item:hover .dashboards__label {
+    color: #eee;
+}
+
+.dashboards__label {
+    color: #eee;
+}
+
+.footer__social {
+    background-color: #16181C;
+    display:none;
+}
+
+.footer__content {
+    background-color: #2d2c2c;
+    padding: 2rem calc(3vw + 6px);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.input__field.input__field--no-validation:hover:focus:valid, .input__field.input__field--no-validation:hover:valid, .input__field:hover {
+    border-bottom-color:#262727;
+    
+}
+
+
+.input__field {
+    -webkit-appearance: none;
+    background-color: #262727;
+    box-shadow: inset 5px 5px 5px -5px rgba(0,0,0,.3);
+    border-bottom: 0px solid #262727;
+    border-right: 1px solid transparent;
+    border-color: transparent rgba(0,0,0,.15) #14284e transparent;
+    border-color: transparent rgba(0,0,0,.15) #262727 transparent;
+    order-style: solid;
+    border-width: 1px 1px 2px;
+    border-radius: 5px;
+    color: #8a8a8a;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    font-size: 16px;
+    height: 2.3rem;
+    padding: 0 10px;
+    transition: background-color .3s,border-color .3s linear,box-shadow .3s linear;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+
+
+.input__field:hover {
+    background-color: #262727;
+}
+
+
+.input__field:focus:valid {
+    border-bottom-color: #2db05d;
+}
+
+.input__icon--visible{
+    top:1px !important;
+}
+
+.input__icon--valid{
+        top:1px !important;
+        color:#2db05d;
+
+}
+
+icon--green{
+        color:#2db05d;
+}
+
+
+.button--small-light:focus .icon, .button--small-light:hover .icon {
+    color: #eee;
+}
+
+.button--small-light:focus, .button--small-light:hover {
+    background-color: transparent;
+    border-color: #eee;
+    color: #eee;
+}
+
+.button--small-primary {
+    background-color: transparent;
+    border-color: #eee;
+    color: #eee;
+}
+
+.button--small-primary:hover{
+    background-color: transparent;
+    border-color: #eee;
+    color: #eee;
+}
+
+
+.button--small-primary:active{
+background-color: #eee;
+    color: #eee;
+}
+
+.button--small-primary:focus, .button--small-primary:hover {
+    background-color: transparent;
+    border-color: #eee;
+    color: #eee;
+}
+
+
+.icon--primary {
+    color: #eee !important;
+}
+
+
+
+.headline--h3 {
+    color:#eee;
+}
+
+.dashboards__headline-wrapper {
+    padding: 0 30px 0 56px;
+}
+
+.bookmark__link:hover {
+    color: #eee;
+    text-decoration: underline;
+}
+
+.empty{
+    color:#eee
+    
+}
+
+
+element.style {
+}
+.expandable__summary--normal {
+    font-weight: 400;
+    color: #8a8a8a;
+}
+
+}
